@@ -8,7 +8,7 @@ using namespace std;
   int main()
 {
     cout << "Programmer: " << endl;
-    cout << "Description: make a program that prompt the input and output filenames" << endl << endl;
+    cout << "Description: " << endl;
     
     string I = "fileContainingEmails.txt";
     string O = "copyPasteMyEmails.txt";
